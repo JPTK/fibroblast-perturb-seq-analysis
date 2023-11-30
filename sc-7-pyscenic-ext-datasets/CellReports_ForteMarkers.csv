@@ -1,0 +1,2430 @@
+Gene,CellType
+Cthrc1,Myofb
+Acta2,Myofb
+Tagln,Myofb
+Fn1,Myofb
+Ptn,Myofb
+Col1a1,Myofb
+Postn,Myofb
+Ddah1,Myofb
+Csrp2,Myofb
+Tpm2,Myofb
+Myl9,Myofb
+Lox,Myofb
+Col1a2,Myofb
+Timp1,Myofb
+Col3a1,Myofb
+Sfrp2,Myofb
+Col5a2,Myofb
+Tnc,Myofb
+Wisp1,Myofb
+Sparc,Myofb
+Marcksl1,Myofb
+Actb,Myofb
+Actn1,Myofb
+Kdelr2,Myofb
+Lgals1,Myofb
+Mfap4,Myofb
+Crlf1,Myofb
+C1qtnf6,Myofb
+Ltbp2,Myofb
+Loxl3,Myofb
+Ppic,Myofb
+Spp1,Myofb
+Serpinh1,Myofb
+Sfrp1,Myofb
+Slc39a1,Myofb
+Lbh,Myofb
+Palld,Myofb
+Cnn2,Myofb
+Fkbp10,Myofb
+Fam101b,Myofb
+Vamp5,Myofb
+Mdk,Myofb
+Aspn,Myofb
+Tspan6,Myofb
+Col8a1,Myofb
+Eln,Myofb
+Myl6,Myofb
+Ssr2,Myofb
+Fkbp11,Myofb
+Ctsd,Myofb
+Myl12a,Myofb
+Gm10076,Myofb
+Fstl1,Myofb
+Ccl9,Myofb
+Col5a1,Myofb
+Rbp1,Myofb
+Plac8,Myofb
+Rcn3,Myofb
+Ppib,Myofb
+S100a11,Myofb
+Efemp2,Myofb
+Wisp2,Myofb
+Tmsb4x,Myofb
+Id3,Myofb
+Mmp14,Myofb
+Srpx2,Myofb
+Tgfb3,Myofb
+Maged1,Myofb
+Ckap4,Myofb
+P4ha3,Myofb
+Runx1,Myofb
+Sec61b,Myofb
+Mfap2,Myofb
+Tpm1,Myofb
+Tmem176b,Myofb
+Gpx7,Myofb
+Maged2,Myofb
+Prdx4,Myofb
+Plod2,Myofb
+1500015O10Rik,Myofb
+Tagln2,Myofb
+Tmem176a,Myofb
+Col12a1,Myofb
+Mmp23,Myofb
+Csrp1,Myofb
+Vmp1,Myofb
+Cnn3,Myofb
+Rpl41,Myofb
+Serf2,Myofb
+Tpm4,Myofb
+P4hb,Myofb
+Col14a1,Myofb
+Sec61g,Myofb
+Fhl2,Myofb
+Emilin1,Myofb
+Gpx8,Myofb
+Ssr4,Myofb
+Bgn,Myofb
+Actg1,Myofb
+Rcn1,Myofb
+Tnfrsf12a,Myofb
+Fscn1,Myofb
+Cyr61,Myofb
+Pdia6,Myofb
+Serf1,Myofb
+Cfl1,Myofb
+Ecscr,Myofb
+Isg15,Myofb
+Tm4sf1,Myofb
+Anxa2,Myofb
+Hnrnpa1,Myofb
+Cxcl12,Myofb
+Sh3bgrl3,Myofb
+Mif,Myofb
+Pdia5,Myofb
+Bst2,Myofb
+Eno1,Myofb
+Erp29,Myofb
+Surf4,Myofb
+Ctgf,Myofb
+Ost4,Myofb
+Thbs2,Myofb
+Prdx5,Myofb
+Rasl11b,Myofb
+Cercam,Myofb
+Cdh2,Myofb
+P3h1,Myofb
+Tmem45a,Myofb
+Col16a1,Myofb
+Gadd45b,Myofb
+Tmem258,Myofb
+Eef1b2,Myofb
+Atp5o,Myofb
+Ncam1,Myofb
+Prdx2,Myofb
+Myh9,Myofb
+Dpysl3,Myofb
+Gapdh,Myofb
+Rbm3,Myofb
+Dad1,Myofb
+Praf2,Myofb
+Rpl39,Myofb
+Pdgfrl,Myofb
+Sdc1,Myofb
+Fndc1,Myofb
+Dclk1,Myofb
+Pfn1,Myofb
+Aebp1,Myofb
+Tubb5,Myofb
+Dok1,Myofb
+Tmsb10,Myofb
+Pls3,Myofb
+Rpsa,Myofb
+Ostc,Myofb
+Copz2,Myofb
+Ctsk,Myofb
+Fbn1,Myofb
+Ak1,Myofb
+Itgb1,Myofb
+Abracl,Myofb
+Enpp1,Myofb
+Tmed9,Myofb
+Picalm,Myofb
+Lrrc59,Myofb
+Ldha,Myofb
+Prelid1,Myofb
+Ddost,Myofb
+Fmod,Myofb
+Bsg,Myofb
+Synpo,Myofb
+Reep5,Myofb
+Fbln5,Myofb
+Snhg18,Myofb
+Tubb2b,Myofb
+Pdlim3,Myofb
+Calr,Myofb
+Erh,Myofb
+Cald1,Myofb
+Phldb2,Myofb
+Tcea3,Myofb
+Cd200,Myofb
+Rps2,Myofb
+Dap,Myofb
+Uba52,Myofb
+Gxylt2,Myofb
+Ppia,Myofb
+Tmem167,Myofb
+Adamts2,Myofb
+Flna,Myofb
+Serpinf1,Myofb
+Foxp1,Myofb
+Mfge8,Myofb
+Pdia3,Myofb
+Eef1g,Myofb
+Slc25a5,Myofb
+Txndc5,Myofb
+Eva1b,Myofb
+Cyb5r3,Myofb
+Tpi1,Myofb
+Atp5g1,Myofb
+Colgalt1,Myofb
+Ssr1,Myofb
+Ndufa3,Myofb
+Tceal8,Myofb
+Clec11a,Myofb
+B4galt1,Myofb
+Siva1,Myofb
+Serp1,Myofb
+Sec13,Myofb
+Tmed3,Myofb
+Loxl2,Myofb
+Atp5e,Myofb
+Eny2,Myofb
+Ndufa4,Myofb
+Nt5dc2,Myofb
+Rps26,Myofb
+Kdelr1,Myofb
+Npm1,Myofb
+Prdx1,Myofb
+Bhlhe41,Myofb
+Mydgf,Myofb
+Kdelr3,Myofb
+Thbs1,Myofb
+Nme1,Myofb
+Nkd2,Myofb
+Atox1,Myofb
+Idh2,Myofb
+2700060E02Rik,Myofb
+1810058I24Rik,Myofb
+Cdk4,Myofb
+Cox5a,Myofb
+Pgam1,Myofb
+Lgals3bp,Myofb
+Gmppb,Myofb
+Lman1,Myofb
+Gsto1,Myofb
+Psmb4,Myofb
+Nek6,Myofb
+Ttll5,Myofb
+Tyms,Myofb
+Cbx3,Myofb
+Cstb,Myofb
+Serpine1,Myofb
+Atp5g2,Myofb
+Nudcd2,Myofb
+Fabp5,Myofb
+Prkcsh,Myofb
+Pdlim1,Myofb
+Ddb1,Myofb
+Sox4,Myofb
+Tmem119,Myofb
+Ctsh,Myofb
+Mlec,Myofb
+Wbp5,Myofb
+Copb2,Myofb
+Pfdn1,Myofb
+2010107E04Rik,Myofb
+Eif4ebp1,Myofb
+Pld3,Myofb
+Cox6c,Myofb
+Arf4,Myofb
+Rps27l,Myofb
+Yif1b,Myofb
+Rplp0,Myofb
+Lyz2,Myofb
+Cilp,Myofb
+Pxdn,Myofb
+Eif4e2,Myofb
+H2afz,Myofb
+Rplp1,Myofb
+Eif5a,Myofb
+Swi5,Myofb
+Tma7,Myofb
+Gnb2l1,Myofb
+Rpl10a,Myofb
+Hcfc1r1,Myofb
+Pam,Myofb
+Sin3b,Myofb
+Ap1s1,Myofb
+Mrps16,Myofb
+Limd2,Myofb
+Itm2a,Myofb
+Spcs1,Myofb
+Ppa1,Myofb
+Mpzl1,Myofb
+Lgmn,Myofb
+Vkorc1,Myofb
+Ssr3,Myofb
+Hdlbp,Myofb
+Fkbp9,Myofb
+Hmgn2,Myofb
+Hif1a,Myofb
+Lmna,Myofb
+Rpl12,Myofb
+Pofut2,Myofb
+Hspe1,Myofb
+Aprt,Myofb
+Loxl1,Myofb
+Capzb,Myofb
+Yif1a,Myofb
+Col4a2,Myofb
+Nans,Myofb
+Manf,Myofb
+Calm1,Myofb
+Stt3a,Myofb
+Akr1a1,Myofb
+Rpl38,Myofb
+Pigs,Myofb
+Dnpep,Myofb
+Tfg,Myofb
+Tubb2a,Myofb
+Lsp1,Myofb
+Igfbp7,Myofb
+Morf4l2,Myofb
+Fam198b,Myofb
+Eif4a1,Myofb
+Pdia4,Myofb
+Sar1a,Myofb
+Galk1,Myofb
+Otub1,Myofb
+Rps8,Myofb
+Atpif1,Myofb
+Calu,Myofb
+Fkbp14,Myofb
+Abhd2,Myofb
+Cnpy2,Myofb
+Plscr3,Myofb
+Ppp1ca,Myofb
+Pi16,PLS
+Cd248,PLS
+Tmem100,PLS
+Efhd1,PLS
+Ly6c1,PLS
+Sema3c,PLS
+Gfpt2,PLS
+Ly6a,PLS
+Cd55,PLS
+Ackr3,PLS
+Lrrn4cl,PLS
+Scara5,PLS
+Igfbp6,PLS
+Clec3b,PLS
+Uap1,PLS
+Nbl1,PLS
+Cd34,PLS
+Pcsk6,PLS
+Axl,PLS
+Ugdh,PLS
+Mfap5,PLS
+Ifi27l2a,PLS
+Crip1,PLS
+Pcolce2,PLS
+Pla1a,PLS
+Fbn1,PLS
+Hn1,PLS
+Mustn1,PLS
+Efemp1,PLS
+Ugp2,PLS
+Ebf1,PLS
+Klf4,PLS
+Anxa3,PLS
+Zfp385a,PLS
+Adamts5,PLS
+Ppp1r14b,PLS
+Lims2,PLS
+Emilin2,PLS
+Adgrd1,PLS
+Tppp3,PLS
+Thbd,PLS
+Timp2,PLS
+Thy1,PLS
+Creb5,PLS
+Tnxb,PLS
+Uqcc2,PLS
+S100a10,PLS
+Limch1,PLS
+Ecm1,PLS
+Fbln2,PLS
+Myoc,PLS
+Serpinb6a,PLS
+Ahnak2,PLS
+Pmp22,PLS
+Emp3,PLS
+Carhsp1,PLS
+Crip2,PLS
+Sulf2,PLS
+Ramp2,PLS
+Ahnak,PLS
+1700019D03Rik,PLS
+Vcan,PLS
+Islr,PLS
+Dbn1,PLS
+Pgf,PLS
+Metrnl,PLS
+Prkcdbp,PLS
+Anxa1,PLS
+Hs3st1,PLS
+Selenbp1,PLS
+Ablim1,PLS
+Lamc1,PLS
+Ddah2,PLS
+Slco3a1,PLS
+Sptbn1,PLS
+Qpct,PLS
+Fhl1,PLS
+S100a6,PLS
+Actg1,PLS
+Heg1,PLS
+Klf3,PLS
+Mgll,PLS
+Ddr2,PLS
+Vat1,PLS
+Ckb,PLS
+Gstm1,PLS
+Rhoc,PLS
+Lpar1,PLS
+Rap1a,PLS
+S100a13,PLS
+Gda,PLS
+Tspo,PLS
+Tshz1,PLS
+Medag,PLS
+Adamtsl5,PLS
+Ccnd3,PLS
+Fstl1,PLS
+Loxl2,PLS
+Cltb,PLS
+Tek,PLS
+Prss23,PLS
+Plpp3,PLS
+Oaf,PLS
+Prr13,PLS
+Smim14,PLS
+Dpt,PLS
+Man1a,PLS
+Triobp,PLS
+Nid1,PLS
+Anxa2,PLS
+Fyn,PLS
+Trip10,PLS
+Aes,PLS
+Zyx,PLS
+Sulf1,PLS
+Aig1,PLS
+Camk2n1,PLS
+S100a16,PLS
+Cd9,PLS
+Bmp1,PLS
+Nav1,PLS
+Pqlc3,PLS
+Wnk1,PLS
+Tmbim1,PLS
+Htra3,PLS
+Antxr2,PLS
+Rab23,PLS
+Lsp1,PLS
+Rhoa,PLS
+Gas7,PLS
+Scd1,PLS
+Ptrf,PLS
+Ntn1,PLS
+C3,PLS
+Sh3kbp1,PLS
+Ybx3,PLS
+Atf5,PLS
+Bag1,PLS
+Plekho2,PLS
+Ebf2,PLS
+Rnase4,PLS
+Fndc1,PLS
+Cd47,PLS
+Entpd2,PLS
+Glud1,PLS
+Pdlim2,PLS
+Cdc42ep2,PLS
+Stx4a,PLS
+Lrp1,PLS
+Klf2,PLS
+Arap1,PLS
+Cxxc5,PLS
+Sparcl1,LR
+Meox1,LR
+Adamtsl2,LR
+Col15a1,LR
+Smoc2,LR
+Col8a1,LR
+Cilp,LR
+Emp1,LR
+Fibin,LR
+Kcnk2,LR
+Spon2,LR
+Cst6,LR
+Ltbp4,LR
+Ckb,LR
+Ace,LR
+Col4a4,LR
+Camk2n1,LR
+Jup,LR
+Itgbl1,LR
+Pmepa1,LR
+Mmp2,LR
+Itgb5,LR
+Ccnd1,LR
+Mfap4,LR
+Aspn,LR
+Vwa1,LR
+Spry1,LR
+Col4a1,LR
+Cygb,LR
+Tmem204,LR
+Ackr4,LR
+Tcf4,LR
+Ifngr1,LR
+Igfbp7,LR
+Fbln2,LR
+Crispld2,LR
+Nbl1,LR
+Entpd2,LR
+Col4a2,LR
+Pmp22,LR
+Mxra7,LR
+Jun,LR
+Bgn,LR
+Rftn1,LR
+Creb3l2,LR
+Heyl,LR
+Lama2,LR
+Mtch1,LR
+Matn2,LR
+F2r,LR
+Adcy7,LR
+Amotl1,LR
+Bmp4,LR
+Hspg2,LR
+Hspa1a,LR
+Pi16,LR
+Akap12,LR
+Lum,LR
+Islr,LR
+Abca8a,LR
+Nid1,LR
+Nav1,LR
+Pcolce,LR
+Col6a2,LR
+Sptbn1,LR
+Col6a3,LR
+Svep1,LR
+Oaf,LR
+Nfic,LR
+Ugp2,LR
+1700025G04Rik,LR
+Klf2,LR
+Mfap5,LR
+Igfbp6,LR
+Marcks,LR
+Bhlhe40,LR
+Cd9,LR
+Sdc2,LR
+Ubl3,LR
+Lhfp,LR
+Jund,LR
+C1qtnf2,LR
+Rnf11,LR
+Cyth3,LR
+Lamc1,LR
+Pam,Phagoc
+Actb,Phagoc
+Slc39a1,Phagoc
+Nfia,Phagoc
+Kdelr2,Phagoc
+Spry2,Phagoc
+Lyz2,Phagoc
+Notch2,Phagoc
+Dpysl2,Phagoc
+Bhlhe41,Phagoc
+Abhd2,Phagoc
+Lrrc8a,Phagoc
+Dusp3,Phagoc
+Cbx3,Phagoc
+Ifi27l2a,Phagoc
+Gnb1,Phagoc
+Alkbh5,Phagoc
+Cd74,Phagoc
+Insig1,Phagoc
+B4galt1,Phagoc
+Pdpn,Phagoc
+Pdcd4,Phagoc
+Marf1,Phagoc
+Wtap,Phagoc
+Gas7,Phagoc
+Tubb5,Phagoc
+Cdkn1b,Phagoc
+Cercam,Phagoc
+Zc3hav1,Phagoc
+Sept2,Phagoc
+Lum,Phagoc
+Supt16,Phagoc
+Ccnd1,Phagoc
+S100a10,Phagoc
+S100a6,Phagoc
+Ckb,Phagoc
+Rhoa,Phagoc
+Otub1,Phagoc
+Gm2a,Phagoc
+Spon2,Phagoc
+Pcolce,Phagoc
+Tppp3,Phagoc
+Ly6a,Phagoc
+Pmp22,Phagoc
+Smoc2,Phagoc
+Col8a1,Phagoc
+Gatad1,Phagoc
+S100a11,Phagoc
+Skil,Phagoc
+Arglu1,Phagoc
+Mt2,IR
+Mt1,IR
+Ccl2,IR
+Prg4,IR
+Timp1,IR
+Serpina3n,IR
+Ccl7,IR
+Angptl4,IR
+Gm12840,IR
+Mmp3,IR
+Cxcl1,IR
+Uap1,IR
+Mif,IR
+Tnfaip6,IR
+Ldha,IR
+Errfi1,IR
+Ly6a,IR
+Slc25a5,IR
+Cebpb,IR
+Gfpt2,IR
+Eif4a1,IR
+Itga5,IR
+Ugdh,IR
+Ier3,IR
+Pdpn,IR
+Ly6c1,IR
+Eif5a,IR
+Serpine1,IR
+Rbm3,IR
+Gadd45g,IR
+Il33,IR
+Nme1,IR
+Ran,IR
+Tnfrsf12a,IR
+Ppp1r14b,IR
+Hspa5,IR
+Hmox1,IR
+Cdkn1a,IR
+Ncl,IR
+Srm,IR
+Hspd1,IR
+Srpx,IR
+Plin2,IR
+Sod2,IR
+Sdc4,IR
+Nfkbia,IR
+Pgf,IR
+Manf,IR
+Rps2,IR
+Aldh1a2,IR
+Nr4a1,IR
+Nhp2,IR
+Fth1,IR
+6030408B16Rik,IR
+Aldoa,IR
+Eif4ebp1,IR
+Lrrc59,IR
+Ppa1,IR
+Hspa9,IR
+C3,IR
+S100a8,IR
+Pkm,IR
+Gja1,IR
+Gda,IR
+Higd1a,IR
+Thbs1,IR
+Npm1,IR
+Tubb6,IR
+Ebna1bp2,IR
+Gapdh,IR
+Eif6,IR
+Ifrd1,IR
+Pgam1,IR
+Rps18,IR
+Hspa8,IR
+Enc1,IR
+Eef1g,IR
+Tuba1c,IR
+Sdf2l1,IR
+C1qbp,IR
+Socs3,IR
+Hnrnpa1,IR
+Rpl36al,IR
+Ifi205,IR
+Gar1,IR
+Mcfd2,IR
+Eno1,IR
+Cycs,IR
+Ier2,IR
+Hspe1,IR
+Tomm40,IR
+Esd,IR
+Hnrnpf,IR
+Rpsa,IR
+Nop56,IR
+Ddx39,IR
+Prmt1,IR
+Capg,IR
+Gnl3,IR
+Sgk1,IR
+Etf1,IR
+Tspan4,IR
+Cct7,IR
+Arpc1b,IR
+Eef1e1,IR
+Nop58,IR
+Fbl,IR
+Mrto4,IR
+Tnfrsf1a,IR
+Cct3,IR
+Pabpc1,IR
+Anp32b,IR
+Ranbp1,IR
+Tpi1,IR
+Slc3a2,IR
+Pfn1,IR
+Nars,IR
+Fgl2,IR
+Mrpl12,IR
+Rplp1,IR
+Ddx21,IR
+Eif4e,IR
+Cxcl12,IR
+Hnrnpa3,IR
+Hnrnpab,IR
+Mgst1,IR
+Eif2s1,IR
+Serp1,IR
+Mdh2,IR
+Fkbp11,IR
+Rsl1d1,IR
+Stat3,IR
+Eif5,IR
+Xbp1,IR
+Cct8,IR
+Rpl29,IR
+Chic2,IR
+Rpl32,IR
+Fxyd5,IR
+Naa50,IR
+Map2k3,IR
+Erh,IR
+Snrpd1,IR
+Txn1,IR
+Tomm20,IR
+Npm3,IR
+Eif2s2,IR
+Adgrd1,IR
+Rps6,IR
+Rrs1,IR
+Eif3i,IR
+Calr,IR
+Ssr4,IR
+Rpl22l1,IR
+Aprt,IR
+Pdia6,IR
+Rassf1,IR
+Serbp1,IR
+Eif1a,IR
+Srsf7,IR
+Creld2,IR
+Atf4,IR
+Snrpd3,IR
+Rplp0,IR
+Eif3b,IR
+Atp5g1,IR
+Pcbp1,IR
+Csf1,IR
+Uqcrq,IR
+Adamts1,IR
+Odc1,IR
+Tgfb1,IR
+Gnb2l1,IR
+Kctd11,IR
+Cald1,IR
+Serpine2,IR
+Rpl18,IR
+Rpl14,IR
+Nip7,IR
+Fam162a,IR
+Impdh2,IR
+Anxa7,IR
+Nolc1,IR
+Ifitm3,IR
+Litaf,IR
+Ier5,IR
+Gnpnat1,IR
+Rpl7l1,IR
+Set,IR
+Snrpa1,IR
+Srsf3,IR
+Junb,IR
+Carhsp1,IR
+Rpl5,IR
+Yrdc,IR
+Psmb2,IR
+Rpl3,IR
+Rpl12,IR
+Osmr,IR
+Snrpf,IR
+Nhp2l1,IR
+Ccnl1,IR
+Prdx5,IR
+Comp,MFC
+Sfrp2,MFC
+1500015O10Rik,MFC
+Angptl7,MFC
+Thbs4,MFC
+Wisp2,MFC
+Cilp,MFC
+Eln,MFC
+Fmod,MFC
+Cst3,MFC
+Fam101b,MFC
+Ltbp2,MFC
+Itgbl1,MFC
+Ddah1,MFC
+Crlf1,MFC
+Cd200,MFC
+Ctgf,MFC
+Frzb,MFC
+Fn1,MFC
+Postn,MFC
+Mfap4,MFC
+Fxyd6,MFC
+Cthrc1,MFC
+Abi3bp,MFC
+Itgb5,MFC
+Pmepa1,MFC
+Lox,MFC
+Col5a2,MFC
+Pdgfrl,MFC
+Col8a2,MFC
+Aspn,MFC
+Fibin,MFC
+Col8a1,MFC
+Timp3,MFC
+Cfh,MFC
+Mgp,MFC
+Col3a1,MFC
+Sparc,MFC
+Col14a1,MFC
+Dkk3,MFC
+Gucy1a3,MFC
+Fbln5,MFC
+Nupr1,MFC
+Thbs1,MFC
+Tgfb3,MFC
+Gxylt2,MFC
+Col1a2,MFC
+Cpe,MFC
+Tm4sf1,MFC
+Cst6,MFC
+Igfbp7,MFC
+Ptn,MFC
+Meox1,MFC
+Loxl3,MFC
+Gas6,MFC
+Actn1,MFC
+Dhrs3,MFC
+Lbh,MFC
+Id2,MFC
+Adamts2,MFC
+Emp1,MFC
+Id3,MFC
+Fbln1,MFC
+Col12a1,MFC
+Prelp,MFC
+Cdc42ep3,MFC
+Pam,MFC
+Gm42418,MFC
+Fgl2,MFC
+Dio2,MFC
+Clec11a,MFC
+Tmem119,MFC
+Stc2,MFC
+Dok1,MFC
+Sfrp1,MFC
+Serpinf1,MFC
+Adamtsl2,MFC
+Nox4,MFC
+Fat1,MFC
+Col16a1,MFC
+Rasl11b,MFC
+Mdk,MFC
+Gng8,MFC
+Ctsd,MFC
+Lmcd1,MFC
+Col4a2,MFC
+Synpo,MFC
+Tns3,MFC
+Pamr1,MFC
+Lmo4,MFC
+Ltbp3,MFC
+Pkd2,MFC
+Col1a1,MFC
+Bgn,MFC
+Ogn,MFC
+Ccnd2,MFC
+Unc5b,MFC
+Plod2,MFC
+Cyr61,MFC
+Ecm2,MFC
+mt-Nd4l,MFC
+Nkd2,MFC
+Cd9,MFC
+Nedd9,MFC
+Mmp2,MFC
+Mfap5,MFC
+Mbnl1,MFC
+Rbp1,MFC
+Gucy1b3,MFC
+Svep1,MFC
+Fam198b,MFC
+Pkd1,MFC
+Chpf,MFC
+Pls3,MFC
+Dst,MFC
+Phlda3,MFC
+Creb3l2,MFC
+Wwtr1,MFC
+Foxp1,MFC
+Enpp1,MFC
+Vamp5,MFC
+Ckb,MFC
+Pdgfrb,MFC
+Ltbp4,MFC
+Fstl1,MFC
+Pdlim3,MFC
+Lamb2,MFC
+Tspan6,MFC
+Raph1,MFC
+Cyb5r3,MFC
+Dact3,MFC
+Nfat5,MFC
+Adarb1,MFC
+Tmem45a,MFC
+Ctnnb1,MFC
+Cryab,MFC
+Lhfp,MFC
+Plpp3,MFC
+Kank2,MFC
+C1qtnf2,MFC
+Malat1,MFC
+Golim4,MFC
+Luzp1,MFC
+Cpne8,MFC
+Slc44a2,MFC
+Tcea3,MFC
+Skil,MFC
+Loxl1,MFC
+Srpx2,MFC
+App,MFC
+Sertad4,MFC
+Arhgap5,MFC
+Ttll5,MFC
+Olfml2b,MFC
+Ccser2,MFC
+Ctsk,MFC
+Col5a1,MFC
+Ass1,MFC
+Fndc3b,MFC
+Arid5b,MFC
+Gpc6,MFC
+Lrrc58,MFC
+Thbs2,MFC
+Mical2,MFC
+2310022B05Rik,MFC
+Nbl1,MFC
+Npdc1,MFC
+Nfix,MFC
+Nedd4,MFC
+4931406P16Rik,MFC
+Wif1,EndD
+Cytl1,EndD
+Dkk3,EndD
+Prg4,EndD
+Apoe,EndD
+Dbi,EndD
+Clu,EndD
+1500015O10Rik,EndD
+Pdlim3,EndD
+Lmcd1,EndD
+Cpe,EndD
+Igfbp5,EndD
+Fmod,EndD
+Cox4i2,EndD
+Vim,EndD
+Mgp,EndD
+Cadm1,EndD
+Ccdc80,EndD
+Smim3,EndD
+Msx1,EndD
+Rspo3,EndD
+Paqr6,EndD
+Prelp,EndD
+Tgfbi,EndD
+Timp3,EndD
+Atp1b1,EndD
+Bambi,EndD
+Scara3,EndD
+Myoc,EndD
+Trf,EndD
+Il11ra1,EndD
+Shisa4,EndD
+Tbx20,EndD
+Cdc42ep3,EndD
+Dpt,EndD
+Abi3bp,EndD
+Aldh1a1,EndD
+Tst,EndD
+Socs2,EndD
+Id1,EndD
+Itih5,EndD
+2010111I01Rik,EndD
+Fth1,EndD
+Fxyd6,EndD
+Map1b,EndD
+Pdgfa,EndD
+Cd9,EndD
+Tmem176b,EndD
+Lmo4,EndD
+Tspan7,EndD
+Comp,EndD
+Gstm5,EndD
+Bmyc,EndD
+Hmgcs2,EndD
+Npr1,EndD
+Fgl2,EndD
+Igf1,EndD
+Mdk,EndD
+Mafb,EndD
+Mfap2,EndD
+St3gal4,EndD
+Tcf12,EndD
+Frzb,EndD
+Id3,EndD
+Etv1,EndD
+4930523C07Rik,EndD
+Meox1,EndD
+Kazald1,EndD
+Fam3c,EndD
+Tmem176a,EndD
+Ccnd2,EndD
+Nudt4,EndD
+Ptn,EndD
+Hist1h2bc,EndD
+Sepp1,EndD
+Vgll4,EndD
+Dcn,EndD
+Itm2b,EndD
+Vit,EndD
+Limch1,EndD
+Lgmn,EndD
+Ndrg2,EndD
+Sdc3,EndD
+Por,EndD
+Ppp3ca,EndD
+Csrp1,EndD
+Bok,EndD
+Csrp2,EndD
+Fbln1,EndD
+Mgst1,EndD
+Crip2,EndD
+Sdpr,EndD
+Ifi27,EndD
+Papss2,EndD
+Lum,EndD
+Gem,EndD
+Thbs1,EndD
+Gata6,EndD
+Vcam1,EndD
+Gas6,EndD
+Ninj1,EndD
+Serpinf1,EndD
+Plat,EndD
+Atp1b3,EndD
+Meis2,EndD
+Rnpep,EndD
+Rin2,EndD
+Tm4sf1,EndD
+Pttg1,EndD
+Ldhb,EndD
+Prnp,EndD
+Nfix,EndD
+Xpnpep1,EndD
+Glul,EndD
+Olfml2b,EndD
+Rasl11b,EndD
+Tmem100,EndD
+Fblim1,EndD
+Maged2,EndD
+Eif4a2,EndD
+Rhoc,EndD
+Arl4a,EndD
+Ramp2,EndD
+Gng11,EndD
+Cfh,EndD
+Fhl1,EndD
+Nfib,EndD
+Olfml1,EndD
+Gnb4,EndD
+Pdgfrl,EndD
+Colec12,EndD
+Hist1h1c,EndD
+Pfdn5,EndD
+Mfap4,EndD
+Il33,EndD
+Sat1,EndD
+Ier3,EndD
+Olfml3,EndD
+Epdr1,EndD
+Emp2,EndD
+Gstt1,EndD
+Slc29a1,EndD
+Calm2,EndD
+Ngfrap1,EndD
+Twsg1,EndD
+Sdc4,EndD
+Slc16a2,EndD
+Ccni,EndD
+Eef1d,EndD
+Id2,EndD
+Gsn,EndD
+Mef2c,EndD
+Arhgdib,EndD
+Lrrk1,EndD
+Syt11,EndD
+Sec11c,EndD
+Pebp1,EndD
+Ddx5,EndD
+Wwtr1,EndD
+Foxp2,EndD
+Cnn3,EndD
+Sox9,EndD
+Stmn1,Prolif Myofb
+H2afz,Prolif Myofb
+Cks2,Prolif Myofb
+Cenpa,Prolif Myofb
+Hmgb2,Prolif Myofb
+2810417H13Rik,Prolif Myofb
+Acta2,Prolif Myofb
+Birc5,Prolif Myofb
+Cdc20,Prolif Myofb
+2700094K13Rik,Prolif Myofb
+Ube2c,Prolif Myofb
+Ube2s,Prolif Myofb
+Hmgn2,Prolif Myofb
+Tubb5,Prolif Myofb
+Cdca8,Prolif Myofb
+Ran,Prolif Myofb
+Ccnb2,Prolif Myofb
+Tuba1b,Prolif Myofb
+Cdca3,Prolif Myofb
+Top2a,Prolif Myofb
+Prc1,Prolif Myofb
+Cdk1,Prolif Myofb
+Tubb6,Prolif Myofb
+Cks1b,Prolif Myofb
+Spc24,Prolif Myofb
+Tpm2,Prolif Myofb
+Cenpf,Prolif Myofb
+H2afx,Prolif Myofb
+Tk1,Prolif Myofb
+Tubb4b,Prolif Myofb
+Tpx2,Prolif Myofb
+Lockd,Prolif Myofb
+Pbk,Prolif Myofb
+Ccnb1,Prolif Myofb
+Ccna2,Prolif Myofb
+Tagln,Prolif Myofb
+Smc2,Prolif Myofb
+Tagln2,Prolif Myofb
+Timp1,Prolif Myofb
+Tyms,Prolif Myofb
+Smc4,Prolif Myofb
+Rrm2,Prolif Myofb
+Racgap1,Prolif Myofb
+Lgals1,Prolif Myofb
+Actb,Prolif Myofb
+Spc25,Prolif Myofb
+Hist1h2ap,Prolif Myofb
+Cenpm,Prolif Myofb
+Knstrn,Prolif Myofb
+Hmmr,Prolif Myofb
+Hnrnpa1,Prolif Myofb
+Fam64a,Prolif Myofb
+Hmgb1,Prolif Myofb
+Spp1,Prolif Myofb
+Mki67,Prolif Myofb
+Ckap4,Prolif Myofb
+Ranbp1,Prolif Myofb
+Cthrc1,Prolif Myofb
+Ccdc34,Prolif Myofb
+Tpm4,Prolif Myofb
+Rbm3,Prolif Myofb
+Tacc3,Prolif Myofb
+Mad2l1,Prolif Myofb
+H2afv,Prolif Myofb
+Cenpe,Prolif Myofb
+Anp32b,Prolif Myofb
+Actg1,Prolif Myofb
+Nucks1,Prolif Myofb
+Rrm1,Prolif Myofb
+Hmgb3,Prolif Myofb
+Erh,Prolif Myofb
+Tmpo,Prolif Myofb
+Dut,Prolif Myofb
+Ppia,Prolif Myofb
+Gpx7,Prolif Myofb
+Cdkn3,Prolif Myofb
+Snrpd1,Prolif Myofb
+Csrp2,Prolif Myofb
+Kdelr2,Prolif Myofb
+Calm2,Prolif Myofb
+Lmnb1,Prolif Myofb
+Asf1b,Prolif Myofb
+Cbx3,Prolif Myofb
+Nuf2,Prolif Myofb
+Slc25a5,Prolif Myofb
+Prdx4,Prolif Myofb
+Tnc,Prolif Myofb
+Dek,Prolif Myofb
+Ckap2,Prolif Myofb
+Ckap2l,Prolif Myofb
+Kif20a,Prolif Myofb
+Mxd3,Prolif Myofb
+Hdgf,Prolif Myofb
+Cfl1,Prolif Myofb
+Lmna,Prolif Myofb
+Lsm2,Prolif Myofb
+Ywhah,Prolif Myofb
+Pfn1,Prolif Myofb
+Lrrc59,Prolif Myofb
+Pmf1,Prolif Myofb
+Plk1,Prolif Myofb
+Kif22,Prolif Myofb
+Dnajc9,Prolif Myofb
+Hnrnpab,Prolif Myofb
+Postn,Prolif Myofb
+Dynll1,Prolif Myofb
+Cnn2,Prolif Myofb
+Eif4a1,Prolif Myofb
+Arl6ip1,Prolif Myofb
+Myl9,Prolif Myofb
+Nusap1,Prolif Myofb
+Cox5a,Prolif Myofb
+Gapdh,Prolif Myofb
+Ccl9,Prolif Myofb
+Cenpw,Prolif Myofb
+Nme1,Prolif Myofb
+Ddah1,Prolif Myofb
+Ddx39,Prolif Myofb
+Rangap1,Prolif Myofb
+Srsf3,Prolif Myofb
+Cdkn2d,Prolif Myofb
+Cdk4,Prolif Myofb
+Actn1,Prolif Myofb
+Vdac1,Prolif Myofb
+Anp32e,Prolif Myofb
+Nudt21,Prolif Myofb
+Dtymk,Prolif Myofb
+Anln,Prolif Myofb
+Aurkb,Prolif Myofb
+Lig1,Prolif Myofb
+Sae1,Prolif Myofb
+Tuba1c,Prolif Myofb
+Fscn1,Prolif Myofb
+Nap1l1,Prolif Myofb
+Actr3,Prolif Myofb
+Hnrnpa2b1,Prolif Myofb
+Srsf2,Prolif Myofb
+Kif23,Prolif Myofb
+Snrpe,Prolif Myofb
+Hsp90aa1,Prolif Myofb
+S100a11,Prolif Myofb
+Eif5a,Prolif Myofb
+Set,Prolif Myofb
+Cenpq,Prolif Myofb
+Serpinh1,Prolif Myofb
+Mif,Prolif Myofb
+Myl6,Prolif Myofb
+Fn1,Prolif Myofb
+Lsm6,Prolif Myofb
+Eny2,Prolif Myofb
+Myl12a,Prolif Myofb
+Txn1,Prolif Myofb
+Hat1,Prolif Myofb
+Tpm1,Prolif Myofb
+Ptma,Prolif Myofb
+Ssr2,Prolif Myofb
+Pgam1,Prolif Myofb
+Clic1,Prolif Myofb
+Loxl3,Prolif Myofb
+Fkbp10,Prolif Myofb
+Snrpf,Prolif Myofb
+Prdx1,Prolif Myofb
+Rad21,Prolif Myofb
+Dctpp1,Prolif Myofb
+Ccl2,Prolif Myofb
+Atp5b,Prolif Myofb
+Tuba1a,Prolif Myofb
+Hmgn1,Prolif Myofb
+Lsm5,Prolif Myofb
+Gmnn,Prolif Myofb
+Tpi1,Prolif Myofb
+Nudcd2,Prolif Myofb
+Anxa2,Prolif Myofb
+Lsm3,Prolif Myofb
+Banf1,Prolif Myofb
+Ssr1,Prolif Myofb
+Lox,Prolif Myofb
+Gins2,Prolif Myofb
+Hn1,Prolif Myofb
+Srsf7,Prolif Myofb
+Kif20b,Prolif Myofb
+Idh2,Prolif Myofb
+Diaph3,Prolif Myofb
+Supt16,Prolif Myofb
+Shcbp1,Prolif Myofb
+Calm1,Prolif Myofb
+Ncl,Prolif Myofb
+Aurka,Prolif Myofb
+Fabp5,Prolif Myofb
+Eno1,Prolif Myofb
+Cycs,Prolif Myofb
+Hint1,Prolif Myofb
+Ldha,Prolif Myofb
+Snrpa1,Prolif Myofb
+Tnfrsf12a,Prolif Myofb
+Fkbp11,Prolif Myofb
+4930579G24Rik,Prolif Myofb
+Rfc2,Prolif Myofb
+Cmc2,Prolif Myofb
+Kif2c,Prolif Myofb
+Npm1,Prolif Myofb
+Nsmce1,Prolif Myofb
+Thy1,Prolif Myofb
+Cst6,Prolif Myofb
+Mrpl18,Prolif Myofb
+Loxl2,Prolif Myofb
+Col8a1,Prolif Myofb
+Morf4l2,Prolif Myofb
+Hspd1,Prolif Myofb
+Pdia6,Prolif Myofb
+Csrp1,Prolif Myofb
+Hnrnpk,Prolif Myofb
+Cnn3,Prolif Myofb
+Tceb1,Prolif Myofb
+Nasp,Prolif Myofb
+Tcp1,Prolif Myofb
+Col1a1,Prolif Myofb
+Dazap1,Prolif Myofb
+Ppa1,Prolif Myofb
+Hn1l,Prolif Myofb
+Prelid1,Prolif Myofb
+Cct7,Prolif Myofb
+Manf,Prolif Myofb
+Nt5dc2,Prolif Myofb
+H1f0,Prolif Myofb
+Ssrp1,Prolif Myofb
+Atp5g2,Prolif Myofb
+Atp5o,Prolif Myofb
+Prmt1,Prolif Myofb
+Casc5,Prolif Myofb
+Cox7a2,Prolif Myofb
+Reep4,Prolif Myofb
+Erp29,Prolif Myofb
+Acot7,Prolif Myofb
+Slc39a1,Prolif Myofb
+Ppic,Prolif Myofb
+Calm3,Prolif Myofb
+Melk,Prolif Myofb
+Wisp1,Prolif Myofb
+G3bp1,Prolif Myofb
+Plp2,Prolif Myofb
+Anapc15,Prolif Myofb
+Depdc1a,Prolif Myofb
+Hsp90b1,Prolif Myofb
+Slbp,Prolif Myofb
+Lsm4,Prolif Myofb
+Sfpq,Prolif Myofb
+Hnrnpa3,Prolif Myofb
+Serbp1,Prolif Myofb
+Vmp1,Prolif Myofb
+Pdap1,Prolif Myofb
+Psip1,Prolif Myofb
+Mrpl51,Prolif Myofb
+Txnl1,Prolif Myofb
+Pkm,Prolif Myofb
+Ddx39b,Prolif Myofb
+Ube2n,Prolif Myofb
+Cacybp,Prolif Myofb
+Psma4,Prolif Myofb
+Rnaseh2c,Prolif Myofb
+C330027C09Rik,Prolif Myofb
+Siva1,Prolif Myofb
+Rfc4,Prolif Myofb
+Tcf19,Prolif Myofb
+Gm10076,Prolif Myofb
+Ssna1,Prolif Myofb
+Ptms,Prolif Myofb
+Haus7,Prolif Myofb
+Raly,Prolif Myofb
+Ezh2,Prolif Myofb
+Bzw1,Prolif Myofb
+Marcksl1,Prolif Myofb
+Ecscr,Prolif Myofb
+Hnrnpf,Prolif Myofb
+Ywhae,Prolif Myofb
+Naa50,Prolif Myofb
+Exosc8,Prolif Myofb
+Ak6,Prolif Myofb
+Nono,Prolif Myofb
+Abracl,Prolif Myofb
+Usp1,Prolif Myofb
+Nans,Prolif Myofb
+Ncaph2,Prolif Myofb
+Eif4e,Prolif Myofb
+Pcna,Prolif Myofb
+Rpsa,Prolif Myofb
+Trim59,Prolif Myofb
+Eif2s1,Prolif Myofb
+Reep5,Prolif Myofb
+Mcm5,Prolif Myofb
+Wdr1,Prolif Myofb
+sept7,Prolif Myofb
+Mapre1,Prolif Myofb
+Cit,Prolif Myofb
+Rbbp7,Prolif Myofb
+Ubl4a,Prolif Myofb
+Fkbp3,Prolif Myofb
+Wbp5,Prolif Myofb
+Cct8,Prolif Myofb
+Rfc5,Prolif Myofb
+Cald1,Prolif Myofb
+Ap1s1,Prolif Myofb
+Pa2g4,Prolif Myofb
+Incenp,Prolif Myofb
+Ppih,Prolif Myofb
+Sec61g,Prolif Myofb
+Hnrnpc,Prolif Myofb
+Mcm6,Prolif Myofb
+Cenpk,Prolif Myofb
+Odc1,Prolif Myofb
+Rad51,Prolif Myofb
+Ska1,Prolif Myofb
+Ssr3,Prolif Myofb
+Tubb3,Prolif Myofb
+Psmd7,Prolif Myofb
+Tubb2b,Prolif Myofb
+Tspan6,Prolif Myofb
+Psma6,Prolif Myofb
+Mlf2,Prolif Myofb
+Isg15,Prolif Myofb
+Cnih4,Prolif Myofb
+Rps27l,Prolif Myofb
+Vamp5,Prolif Myofb
+Bub1b,Prolif Myofb
+Crlf1,Prolif Myofb
+Ubald2,Prolif Myofb
+Aldh1a2,Prolif Myofb
+Pbdc1,Prolif Myofb
+Magoh,Prolif Myofb
+Mdh2,Prolif Myofb
+Atp5f1,Prolif Myofb
+Rnf26,Prolif Myofb
+Tubb2a,Prolif Myofb
+Srsf6,Prolif Myofb
+Ap2s1,Prolif Myofb
+Ywhaq,Prolif Myofb
+Rpa2,Prolif Myofb
+U2af1,Prolif Myofb
+P4ha3,Prolif Myofb
+Pole3,Prolif Myofb
+Tmem97,Prolif Myofb
+Arpp19,Prolif Myofb
+P4hb,Prolif Myofb
+Psmb7,Prolif Myofb
+Ostc,Prolif Myofb
+Msn,Prolif Myofb
+Gspt1,Prolif Myofb
+Sh3bgrl3,Prolif Myofb
+Maged1,Prolif Myofb
+Tm4sf1,Prolif Myofb
+Snrpd3,Prolif Myofb
+Ptges3,Prolif Myofb
+Rpa3,Prolif Myofb
+Rpl41,Prolif Myofb
+Ncapd2,Prolif Myofb
+Sec61b,Prolif Myofb
+Mlec,Prolif Myofb
+Tpm3,Prolif Myofb
+Psmd13,Prolif Myofb
+Nudc,Prolif Myofb
+Ube2l3,Prolif Myofb
+Dcun1d5,Prolif Myofb
+Tmem167,Prolif Myofb
+Trip13,Prolif Myofb
+Ddost,Prolif Myofb
+Ndufa4,Prolif Myofb
+Psmd2,Prolif Myofb
+H2afy,Prolif Myofb
+Hjurp,Prolif Myofb
+Surf4,Prolif Myofb
+Mmp14,Prolif Myofb
+Vdac2,Prolif Myofb
+1500009L16Rik,Prolif Myofb
+Fstl1,Prolif Myofb
+Nrm,Prolif Myofb
+Haus4,Prolif Myofb
+Fam96a,Prolif Myofb
+Gdi2,Prolif Myofb
+Mettl9,Prolif Myofb
+Psmd14,Prolif Myofb
+Bok,Prolif Myofb
+Sec13,Prolif Myofb
+Snx7,Prolif Myofb
+Commd1,Prolif Myofb
+Plk4,Prolif Myofb
+Serp1,Prolif Myofb
+Eif2s2,Prolif Myofb
+Hnrnpu,Prolif Myofb
+Psat1,Prolif Myofb
+Dhfr,Prolif Myofb
+Lman1,Prolif Myofb
+Rcn1,Prolif Myofb
+Rps2,Prolif Myofb
+Swi5,Prolif Myofb
+Mcm7,Prolif Myofb
+Snrpc,Prolif Myofb
+Emilin1,Prolif Myofb
+Cdv3,Prolif Myofb
+2700029M09Rik,Prolif Myofb
+Cct3,Prolif Myofb
+Mzt1,Prolif Myofb
+Psmb4,Prolif Myofb
+Sdc1,Prolif Myofb
+Srpx2,Prolif Myofb
+Ppp1ca,Prolif Myofb
+Gpx8,Prolif Myofb
+Cbx1,Prolif Myofb
+Nde1,Prolif Myofb
+Kpnb1,Prolif Myofb
+Hspe1,Prolif Myofb
+Mrpl42,Prolif Myofb
+Dpysl3,Prolif Myofb
+Rac1,Prolif Myofb
+Ctps,Prolif Myofb
+Srp9,Prolif Myofb
+Tspo,Prolif Myofb
+Cmpk1,Prolif Myofb
+Glipr2,Prolif Myofb
+Npm3,Prolif Myofb
+Psma7,Prolif Myofb
+Calr,Prolif Myofb
+Mrpl20,Prolif Myofb
+Ptbp1,Prolif Myofb
+Vcp,Prolif Myofb
+Hnrnpm,Prolif Myofb
+Hdac2,Prolif Myofb
+Fhl2,Prolif Myofb
+Nudt5,Prolif Myofb
+Txndc12,Prolif Myofb
+Bst2,Prolif Myofb
+Tex30,Prolif Myofb
+Lmf2,Prolif Myofb
+Ube2i,Prolif Myofb
+Pcbp1,Prolif Myofb
+Snrpg,Prolif Myofb
+Atpif1,Prolif Myofb
+Psmd6,Prolif Myofb
+Nop56,Prolif Myofb
+Fen1,Prolif Myofb
+Tmed2,Prolif Myofb
+Rnaseh2b,Prolif Myofb
+Nop58,Prolif Myofb
+Pdlim1,Prolif Myofb
+Psma2,Prolif Myofb
+Tmem14c,Prolif Myofb
+Metap2,Prolif Myofb
+Ppib,Prolif Myofb
+Efemp2,Prolif Myofb
+Ttyh2,Prolif Myofb
+Tspan4,Prolif Myofb
+Stip1,Prolif Myofb
+Cwc15,Prolif Myofb
+Atp5g1,Prolif Myofb
+Ssr4,Prolif Myofb
+Cdkn2c,Prolif Myofb
+Ppil1,Prolif Myofb
+Prdx2,Prolif Myofb
+Sparc,Prolif Myofb
+Mrpl33,Prolif Myofb
+Phf5a,Prolif Myofb
+Fam111a,Prolif Myofb
+Psma3,Prolif Myofb
+Ybx1,Prolif Myofb
+Tipin,Prolif Myofb
+Psmb2,Prolif Myofb
+Arf4,Prolif Myofb
+Tceal8,Prolif Myofb
+Itgb3bp,Prolif Myofb
+Bub3,Prolif Myofb
+Phgdh,Prolif Myofb
+Snrpd2,Prolif Myofb
+Syncrip,Prolif Myofb
+Nxt1,Prolif Myofb
+Rfc3,Prolif Myofb
+Id3,Prolif Myofb
+Mthfd2,Prolif Myofb
+Hmgn3,Prolif Myofb
+Psmc6,Prolif Myofb
+Rpn1,Prolif Myofb
+Flna,Prolif Myofb
+Ap2m1,Prolif Myofb
+Snrpa,Prolif Myofb
+Arpc2,Prolif Myofb
+Psmc1,Prolif Myofb
+Eif1ax,Prolif Myofb
+Prkcsh,Prolif Myofb
+Brip1os,Prolif Myofb
+Anapc11,Prolif Myofb
+Bcat1,Prolif Myofb
+Golt1b,Prolif Myofb
+Vbp1,Prolif Myofb
+Tmem258,Prolif Myofb
+H3f3b,Prolif Myofb
+Pgp,Prolif Myofb
+Rcc1,Prolif Myofb
+Snrpb,Prolif Myofb
+Tubg1,Prolif Myofb
+Larp7,Prolif Myofb
+Rcn3,Prolif Myofb
+Ewsr1,Prolif Myofb
+Tmed9,Prolif Myofb
+Psmb5,Prolif Myofb
+Psmc4,Prolif Myofb
+Ptgr1,Prolif Myofb
+Rpn2,Prolif Myofb
+C1qtnf6,Prolif Myofb
+Hprt,Prolif Myofb
+Eif4a3,Prolif Myofb
+Ssb,Prolif Myofb
+Nup37,Prolif Myofb
+Atp5a1,Prolif Myofb
+Ndufab1,Prolif Myofb
+Pole4,Prolif Myofb
+Myh9,Prolif Myofb
+Tmsb4x,Prolif Myofb
+Hsd17b12,Prolif Myofb
+Bud31,Prolif Myofb
+Thoc7,Prolif Myofb
+Fkbp2,Prolif Myofb
+Lsm8,Prolif Myofb
+Nhp2,Prolif Myofb
+Uqcrb,Prolif Myofb
+Trim28,Prolif Myofb
+Cct5,Prolif Myofb
+Mtpn,Prolif Myofb
+Timm17b,Prolif Myofb
+Actn4,Prolif Myofb
+Col5a2,Prolif Myofb
+Nudt4,Prolif Myofb
+Eif6,Prolif Myofb
+Sh3glb1,Prolif Myofb
+Slmo2,Prolif Myofb
+Sar1a,Prolif Myofb
+Rbmx,Prolif Myofb
+Vim,Prolif Myofb
+Itgb1,Prolif Myofb
+Rpl36al,Prolif Myofb
+Cox5b,Prolif Myofb
+Mrfap1,Prolif Myofb
+Snx3,Prolif Myofb
+Impdh2,Prolif Myofb
+March5,Prolif Myofb
+Capzb,Prolif Myofb
+Cct2,Prolif Myofb
+Higd1a,Prolif Myofb
+Bak1,Prolif Myofb
+Ngfrap1,Prolif Myofb
+Nsmce4a,Prolif Myofb
+Vasp,Prolif Myofb
+Sumo2,Prolif Myofb
+Cyb5r3,Prolif Myofb
+Hnrnpdl,Prolif Myofb
+Rdm1,Prolif Myofb
+Tra2b,Prolif Myofb
+Palld,Prolif Myofb
+H1fx,Prolif Myofb
+Eif4g2,Prolif Myofb
+Gnb2,Prolif Myofb
+Ak2,Prolif Myofb
+Gnb1,Prolif Myofb
+Tmx1,Prolif Myofb
+Tmem263,Prolif Myofb
+Elavl1,Prolif Myofb
+Med21,Prolif Myofb
+Dap,Prolif Myofb
+Gcsh,Prolif Myofb
+Cnih1,Prolif Myofb
+Kdelr1,Prolif Myofb
+Fopnl,Prolif Myofb
+Hp1bp3,Prolif Myofb
+Blmh,Prolif Myofb
+Ccdc25,Prolif Myofb
+Rexo2,Prolif Myofb
+Ost4,Prolif Myofb
+1810037I17Rik,Prolif Myofb
+Actr1b,Prolif Myofb
+Srsf1,Prolif Myofb
+Cenpt,Prolif Myofb
+Lyar,Prolif Myofb
+Alyref,Prolif Myofb
+Cotl1,Prolif Myofb
+Zcrb1,Prolif Myofb
+Ndufb8,Prolif Myofb
+Pdia5,Prolif Myofb
+Uqcrq,Prolif Myofb
+Yif1b,Prolif Myofb
+Trp53,Prolif Myofb
+Nsg1,Prolif Myofb
+Anapc5,Prolif Myofb
+Hspa5,Prolif Myofb
+Oxct1,Prolif Myofb
+Cct4,Prolif Myofb
+Limd2,Prolif Myofb
+Ska2,Prolif Myofb
+Sf3b5,Prolif Myofb
+Psmc2,Prolif Myofb
+Khdrbs1,Prolif Myofb
+Anxa3,Prolif Myofb
+Galk1,Prolif Myofb
+Strap,Prolif Myofb
+Psmd1,Prolif Myofb
+Tmsb10,Prolif Myofb
+Cdca4,Prolif Myofb
+Tma7,Prolif Myofb
+Tomm20,Prolif Myofb
+Rassf1,Prolif Myofb
+Eif4ebp1,Prolif Myofb
+Ccar1,Prolif Myofb
+Zdhhc16,Prolif Myofb
+Tbcb,Prolif Myofb
+Kdelr3,Prolif Myofb
+Timm50,Prolif Myofb
+Minos1,Prolif Myofb
+Ilf2,Prolif Myofb
+Stub1,Prolif Myofb
+Srprb,Prolif Myofb
+Csnk2b,Prolif Myofb
+Cops6,Prolif Myofb
+Tmem176a,Prolif Myofb
+sept10,Prolif Myofb
+Cdc42,Prolif Myofb
+Praf2,Prolif Myofb
+Mmadhc,Prolif Myofb
+Plod2,Prolif Myofb
+Edf1,Prolif Myofb
+Hspa4,Prolif Myofb
+Psmd8,Prolif Myofb
+Ppp1cc,Prolif Myofb
+Pafah1b2,Prolif Myofb
+Gatad1,Prolif Myofb
+Cox7c,Prolif Myofb
+Mrps16,Prolif Myofb
+Ddb1,Prolif Myofb
+Usp14,Prolif Myofb
+Ilk,Prolif Myofb
+Hmgn5,Prolif Myofb
+Stt3a,Prolif Myofb
+Eef1g,Prolif Myofb
+Anxa1,Prolif Myofb
+Psmb3,Prolif Myofb
+Pfdn6,Prolif Myofb
+Psmb6,Prolif Myofb
+Rbm8a,Prolif Myofb
+Rab1a,Prolif Myofb
+Uqcrc1,Prolif Myofb
+sept2,Prolif Myofb
+P3h1,Prolif Myofb
+Fh1,Prolif Myofb
+Timm13,Prolif Myofb
+Papola,Prolif Myofb
+Cbfb,Prolif Myofb
+Txnl4a,Prolif Myofb
+2010107E04Rik,Prolif Myofb
+Txnrd1,Prolif Myofb
+Psma1,Prolif Myofb
+Ergic2,Prolif Myofb
+Med30,Prolif Myofb
+Cox6c,Prolif Myofb
+Pabpc1,Prolif Myofb
+Ptn,Prolif Myofb
+Pycard,Prolif Myofb
+Rer1,Prolif Myofb
+Gars,Prolif Myofb
+Pkig,Prolif Myofb
+Idh3a,Prolif Myofb
+Haus8,Prolif Myofb
+Fzr1,Prolif Myofb
+Eri1,Prolif Myofb
+Tmem138,Prolif Myofb
+Slirp,Prolif Myofb
+Taf12,Prolif Myofb
+Cops5,Prolif Myofb
+Smc1a,Prolif Myofb
+Rhoa,Prolif Myofb
+Glrx5,Prolif Myofb
+Sub1,Prolif Myofb
+Gng5,Prolif Myofb
+Saa3,Epicardium
+Clu,Epicardium
+Col1a1,Epicardium
+Lgals7,Epicardium
+Plac8,Epicardium
+Dmkn,Epicardium
+Col1a2,Epicardium
+Aebp1,Epicardium
+Nkain4,Epicardium
+S100a1,Epicardium
+C3,Epicardium
+Col3a1,Epicardium
+Wt1,Epicardium
+C1s1,Epicardium
+Meg3,Epicardium
+Cpxm1,Epicardium
+Trf,Epicardium
+Fn1,Epicardium
+Il33,Epicardium
+Mfap2,Epicardium
+Ncam1,Epicardium
+Tmem176b,Epicardium
+Gm12840,Epicardium
+Sfrp2,Epicardium
+Fndc1,Epicardium
+Tmem176a,Epicardium
+Slc9a3r1,Epicardium
+Sparc,Epicardium
+C4b,Epicardium
+Rspo1,Epicardium
+Htra1,Epicardium
+Nbl1,Epicardium
+Wnt4,Epicardium
+C2,Epicardium
+Scara3,Epicardium
+Smim1,Epicardium
+Igf1,Epicardium
+Ptgs1,Epicardium
+Irf7,Epicardium
+Cdh11,Epicardium
+Cpz,Epicardium
+Col14a1,Epicardium
+Ier3,Epicardium
+Npc2,Epicardium
+Col5a2,Epicardium
+Maf,Epicardium
+Mpp6,Epicardium
+Enpp2,Epicardium
+Cthrc1,Epicardium
+Gpc3,Epicardium
+Mmp14,Epicardium
+Cxadr,Epicardium
+Tspan13,Epicardium
+Ezr,Epicardium
+Osr1,Epicardium
+Lgals1,Epicardium
+Mdk,Epicardium
+Pdpn,Epicardium
+Csrp2,Epicardium
+Cav1,Epicardium
+Atp1b1,Epicardium
+Ildr2,Epicardium
+Marcksl1,Epicardium
+Wisp1,Epicardium
+Hist1h2bc,Epicardium
+Isg15,Epicardium
+Sdc4,Epicardium
+Flrt2,Epicardium
+Pdlim4,Epicardium
+Tsc22d1,Epicardium
+Ly6e,Epicardium
+Pvrl2,Epicardium
+Palld,Epicardium
+F11r,Epicardium
+Bmp1,Epicardium
+Hspb1,Epicardium
+Igfbp6,Epicardium
+Ctsh,Epicardium
+Cd74,Epicardium
+Tshz2,Epicardium
+Tcea3,Epicardium
+Lgmn,Epicardium
+Meis2,Epicardium
+Cyp1b1,Epicardium
+Rpl41,Epicardium
+Gm10076,Epicardium
+Celf4,Epicardium
+Mmp23,Epicardium
+Adamtsl1,Epicardium
+Zfp503,Epicardium
+Gata6,Epicardium
+H2-K1,Epicardium
+Col5a1,Epicardium
+Ldhb,Epicardium
+Tpm2,Epicardium
+Aprt,Epicardium
+Ly6a,Epicardium
+Ly6c1,Epicardium
+Lrrc17,Epicardium
+Myrf,Epicardium
+Lgals3,Epicardium
+Steap4,Epicardium
+Fkbp11,Epicardium
+Fth1,Epicardium
+Cxcl12,Epicardium
+Gm20186,Epicardium
+Slit3,Epicardium
+Ifi30,Epicardium
+Ptgis,Epicardium
+Rpp25,Epicardium
+Lox,Epicardium
+Sbsn,Epicardium
+Acp5,Epicardium
+Plat,Epicardium
+Plscr2,Epicardium
+Adam33,Epicardium
+Plscr1,Epicardium
+Rps28,Epicardium
+Isyna1,Epicardium
+Cd248,Epicardium
+Ptger3,Epicardium
+Ctsb,Epicardium
+Adam12,Epicardium
+Grb10,Epicardium
+Plod2,Epicardium
+Spon2,Epicardium
+Bst2,Epicardium
+Slc39a1,Epicardium
+Hcfc1r1,Epicardium
+Vmp1,Epicardium
+Ctsk,Epicardium
+Nfkbia,Epicardium
+Hoxa5,Epicardium
+Ndufa3,Epicardium
+Ppic,Epicardium
+Frmd4b,Epicardium
+Sox4,Epicardium
+Cstb,Epicardium
+Rpl38,Epicardium
+Hif1a,Epicardium
+Itm2a,Epicardium
+Wls,Epicardium
+Metrnl,Epicardium
+S100a11,Epicardium
+Prr13,Epicardium
+B4galt1,Epicardium
+Rps27,Epicardium
+Cercam,Epicardium
+Mapkapk3,Epicardium
+Skap2,Epicardium
+Atpif1,Epicardium
+Zbp1,Epicardium
+Cotl1,Epicardium
+Rpl37a,Epicardium
+Gaa,Epicardium
+Serpinb1a,Epicardium
+Tmsb4x,Epicardium
+Adgrd1,Epicardium
+S100a10,Epicardium
+Ctsl,Epicardium
+Ociad2,Epicardium
+Cd44,Epicardium
+Gda,Epicardium
+Runx1,Epicardium
+Arl4a,Epicardium
+Rpl39,Epicardium
+Tmem119,Epicardium
+Il1r1,Epicardium
+Plce1,Epicardium
+Col6a3,Epicardium
+Meis1,Epicardium
+1810058I24Rik,Epicardium
+Pabpc1,Epicardium
+Tpi1,Epicardium
+Dhrs3,Epicardium
+Tgfbr2,Epicardium
+Ptges,Epicardium
+Rps26,Epicardium
+Ube2l6,Epicardium
+Rhou,Epicardium
+Pdzrn3,Epicardium
+Heg1,Epicardium
+Grn,Epicardium
+Prrx2,Epicardium
+Rras2,Epicardium
+Nupr1,Epicardium
+Creg1,Epicardium
+Hspb8,Epicardium
+Uba52,Epicardium
+Minos1,Epicardium
+Syne2,Epicardium
+Adamts15,Epicardium
+Abracl,Epicardium
+Capn6,Epicardium
+Dfna5,Epicardium
+C1ra,Epicardium
+Syngr2,Epicardium
+Psme1,Epicardium
+Spsb1,Epicardium
+Soat1,Epicardium
+Pbx1,Epicardium
+Pltp,Epicardium
+Thbs3,Epicardium
+Man2b1,Epicardium
+Col12a1,Epicardium
+Nkd1,Epicardium
+Cald1,Epicardium
+Olfml2b,Epicardium
+Serpinf1,Epicardium
+Ifi204,Epicardium
+Ndufa4,Epicardium
+Hacd4,Epicardium
+Foxp1,Epicardium
+Pycard,Epicardium
+Abhd2,Epicardium
+Pafah1b3,Epicardium
+Ptprf,Epicardium
+Emilin2,Epicardium
+Fscn1,Epicardium
+Acly,Epicardium
+C1qtnf6,Epicardium
+Cebpb,Epicardium
+Gadd45b,Epicardium
+Snhg18,Epicardium
+Uqcr11,Epicardium
+Cmtm3,Epicardium
+Sec61g,Epicardium
+Pamr1,Epicardium
+Fzd1,Epicardium
+Tmem98,Epicardium
+Maged1,Epicardium
+Mmp19,Epicardium
+Crip1,Epicardium
+Cdon,Epicardium
+Phldb2,Epicardium
+Tma7,Epicardium
+Laptm4b,Epicardium
+Tgm2,Epicardium
+Psmb8,Epicardium
+Efnb1,Epicardium
+Plxdc2,Epicardium
+Serpinh1,Epicardium
+Basp1,Epicardium
+Ppfibp1,Epicardium
+Snrpg,Epicardium
+Prdx5,Epicardium
+Col16a1,Epicardium
+App,Epicardium
+Lum,Epicardium
+Cyb5r3,Epicardium
+Gja1,Epicardium
+Gbp2,Epicardium
+Gng5,Epicardium
+Oasl2,Epicardium
+Capzb,Epicardium
+Efna5,Epicardium
+Lrrn4cl,Epicardium
+Bzw2,Epicardium
+Gm2a,Epicardium
+Creb3l1,Epicardium
+Mgst1,Epicardium
+Ddb1,Epicardium
+Maged2,Epicardium
+Prdx2,Epicardium
+Tpm1,Epicardium
+Ost4,Epicardium
+Cpe,Epicardium
+Dram1,Epicardium
+Antxr1,Epicardium
+Cnpy2,Epicardium
+Prelid1,Epicardium
+Gm1673,Epicardium
+Clic1,Epicardium
+Tubb2b,Epicardium
+Nxn,Epicardium
+Dab2,Epicardium
+Vamp8,Epicardium
+Cryab,Epicardium
+Sec61b,Epicardium
+Pbxip1,Epicardium
+Pcdh7,Epicardium
+Atp5k,Epicardium
+Ctnnbip1,Epicardium
+Rpl35,Epicardium
+H2-Ab1,Epicardium
+Tnfaip8,Epicardium
+Gpx1,Epicardium
+Igfbp3,Epicardium
+Mmp2,Epicardium
+Lgals9,Epicardium
+Serf1,Epicardium
+Ifit3,IFNr
+Isg15,IFNr
+Ifit1,IFNr
+Iigp1,IFNr
+Ifit3b,IFNr
+Rtp4,IFNr
+Irf7,IFNr
+Rsad2,IFNr
+Usp18,IFNr
+Ifi203,IFNr
+Bst2,IFNr
+Phf11d,IFNr
+Mndal,IFNr
+Oasl2,IFNr
+Gm4951,IFNr
+Gbp7,IFNr
+Gbp2,IFNr
+Igtp,IFNr
+Ly6e,IFNr
+Xaf1,IFNr
+Ifi27l2a,IFNr
+Cmpk2,IFNr
+Trim30a,IFNr
+Stat1,IFNr
+Ifi35,IFNr
+Ly6a,IFNr
+Gbp3,IFNr
+Sp100,IFNr
+Tor3a,IFNr
+Ifitm3,IFNr
+Psmb8,IFNr
+H2-T22,IFNr
+Lgals9,IFNr
+Ifi204,IFNr
+Sp110,IFNr
+Ifi47,IFNr
+Apod,IFNr
+Plscr2,IFNr
+Eif2ak2,IFNr
+Ifih1,IFNr
+Zbp1,IFNr
+Mnda,IFNr
+Samhd1,IFNr
+Ube2l6,IFNr
+Psmb10,IFNr
+Lgals3bp,IFNr
+Irgm1,IFNr
+Stat2,IFNr
+Rnf213,IFNr
+Aftph,IFNr
+Samd9l,IFNr
+AW112010,IFNr
+Slfn2,IFNr
+H2-K1,IFNr
+Irf9,IFNr
+Trim12a,IFNr
+B2m,IFNr
+Ddx58,IFNr
+Tap1,IFNr
+Tor1aip1,IFNr
+Tor1aip2,IFNr
+Parp14,IFNr
+AI607873,IFNr
+Psmb9,IFNr
+Tmsb10,IFNr
+H2-D1,IFNr
+Parp12,IFNr
+Shisa5,IFNr
+Nmi,IFNr
+Clic4,IFNr
+Tap2,IFNr
+Col8a1,IFNr
+Tapbp,IFNr
+Aida,IFNr
+Cilp,IFNr
+Slfn5,IFNr
+Ogfr,IFNr
+Ifi205,IFNr
+Fam46a,IFNr
+Lysmd2,IFNr
+Trafd1,IFNr
+Tmem140,IFNr
+H2-Q4,IFNr
+Cd47,IFNr
+Isg20,IFNr
+Postn,IFNr
+Ms4a4d,IFNr
+Psme2,IFNr
+Emp1,IFNr
+Tspo,IFNr
+Vcam1,IFNr
+Xdh,IFNr
+Pmepa1,IFNr
+Pnp,IFNr
+Zc3hav1,IFNr
+Psme1,IFNr
+Gnb4,IFNr
+Itgb5,IFNr
+Itgbl1,IFNr
+Ppp1r2,IFNr
+Lyz2,DCs
+Cd74,DCs
+Ctss,DCs
+Fcer1g,DCs
+C1qb,DCs
+Tyrobp,DCs
+H2-Ab1,DCs
+C1qa,DCs
+Lgals3,DCs
+H2-Aa,DCs
+Cd52,DCs
+Spp1,DCs
+C1qc,DCs
+Fabp4,DCs
+Wfdc17,DCs
+H2-Eb1,DCs
+Srgn,DCs
+Ccl6,DCs
+Ms4a7,DCs
+Ctsc,DCs
+Plac8,DCs
+Coro1a,DCs
+Fabp5,DCs
+Cxcl2,DCs
+Laptm5,DCs
+Il1b,DCs
+Cd14,DCs
+Ccl9,DCs
+Cd68,DCs
+Alox5ap,DCs
+Tmsb4x,DCs
+Ms4a6c,DCs
+Trem2,DCs
+Pf4,DCs
+Ctsd,DCs
+Lgmn,DCs
+Lst1,DCs
+Cd53,DCs
+Cd36,DCs
+Cotl1,DCs
+Actb,DCs
+Ucp2,DCs
+Cyba,DCs
+Fcgr3,DCs
+Rac2,DCs
+Ctsb,DCs
+Sh3bgrl3,DCs
+Spi1,DCs
+Ms4a6d,DCs
+Apoe,DCs
+Ctsh,DCs
+Aif1,DCs
+Ifi30,DCs
+Acta2,DCs
+Ptpn18,DCs
+Gngt2,DCs
+Lcp1,DCs
+Fn1,DCs
+Pld4,DCs
+Rgs2,DCs
+Fyb,DCs
+Pim1,DCs
+Ly86,DCs
+Psap,DCs
+Gpx1,DCs
+C3ar1,DCs
+Fxyd5,DCs
+H2afz,DCs
+Csf1r,DCs
+Tspan13,DCs
+Arhgdib,DCs
+Bcl2a1b,DCs
+Gmfg,DCs
+C5ar1,DCs
+H2-DMa,DCs
+Col1a1,DCs
+Tpd52,DCs
+Unc93b1,DCs
+Ms4a6b,DCs
+Pfn1,DCs
+Plek,DCs
+Cthrc1,DCs
+Btg1,DCs
+Nfkbia,DCs
+Ftl1,DCs
+S100a4,DCs
+Cybb,DCs
+Mpeg1,DCs
+Clec12a,DCs
+Fcgr2b,DCs
+Psmb8,DCs
+Fam49b,DCs
+Selplg,DCs
+Lilrb4a,DCs
+Hcls1,DCs
+Cstb,DCs
+AF251705,DCs
+Atox1,DCs
+Tagln,DCs
+Ptprc,DCs
+Slc39a1,DCs
+Rgs10,DCs
+Ninj1,DCs
+Limd2,DCs
+Slfn2,DCs
+Fcgr1,DCs
+Grn,DCs
+Cfl1,DCs
+Pycard,DCs
+Gm2a,DCs
+Skap2,DCs
+Efhd2,DCs
+Evi2a,DCs
+Msrb1,DCs
+H2-K1,DCs
+Slc3a2,DCs
+Vamp8,DCs
+Csf2ra,DCs
+Isg15,DCs
+Slc25a5,DCs
+Ly6c1,DCs
+H2-D1,DCs
+Tgfbi,DCs
+Hexb,DCs
+B2m,DCs
+Cxcl16,DCs
+Cd44,DCs
+Plin2,DCs
+Gapdh,DCs
+Actg1,DCs
+Actr3,DCs
+Ly6e,DCs
+Aprt,DCs
+Hexa,DCs
+Tpm2,DCs
+Pitpna,DCs
+Cox5a,DCs
+Arpc2,DCs
+Marcksl1,DCs
+Syngr2,DCs
+Fam96a,DCs
+Mkrn1,DCs
+Npc2,DCs
+Bst2,DCs
+AW112010,DCs
+Ctsa,DCs
+Taldo1,DCs
+Ehd4,DCs
+Vsir,DCs
+Ier5,DCs
+Abracl,DCs
+Crem,DCs
+Snx5,DCs
+Hmox1,DCs
+Csrp2,DCs
+Sec11c,DCs
+Clic1,DCs
+Runx1,DCs
+Clta,DCs
+Kdelr2,DCs
+Tmem176a,DCs
+Eno1,DCs
+Slc6a6,DCs
+Samhd1,DCs
+Abhd2,DCs
+Msn,DCs
+Tmem176b,DCs
+Myh9,DCs
+Erp29,DCs
+Sirpa,DCs
+Hmgb2,DCs
+Uba52,DCs
+Sdcbp,DCs
+Gm10116,DCs
+Sub1,DCs
+Man2b1,DCs
+Calm1,DCs
+Cited2,DCs
+Tnfaip8,DCs
+Rnf149,DCs
+Metrnl,DCs
+Pltp,DCs
+Psme1,DCs
+Ier3,DCs
+Capzb,DCs
+Tpi1,DCs
+Capg,DCs
+Kdm6b,DCs
+Cnn2,DCs
+Rnpep,DCs
+Lox,DCs
+Arpc3,DCs
+Ostf1,DCs
+Cmtm7,DCs
+Tubb5,DCs
+Prelid1,DCs
+Creg1,DCs
+Atpif1,DCs
+Tmem14c,DCs
+Gm10076,DCs
+Picalm,DCs
+Tma7,DCs
+Rpl32,DCs
+Myl9,DCs
+Sec61b,DCs
+Fau,DCs
+Prcp,DCs
+Ubl5,DCs
+Mcl1,DCs
+Cebpb,DCs
+Vasp,DCs
