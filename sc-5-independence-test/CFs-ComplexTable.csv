@@ -1,0 +1,47 @@
+Gene,ComplexName
+Pbrm1,pBAF
+Arid2,pBAF
+Brd7,pBAF
+Smarca4,ncBAF
+Brd9,ncBAF
+Smarcd1,ncBAF
+Srcap,SRCAP/Tip60
+Znhit1,SRCAP/Tip60
+Dmap1,SRCAP/Tip60
+Actr6,SRCAP/Tip60
+Yeats4,SRCAP/Tip60
+Kat5,SRCAP/Tip60
+Ino80,INO80
+Ino80e,INO80
+Tfpt,INO80
+Yy1,INO80
+Actr8,INO80
+Uchl5,INO80
+Nfrkb,INO80
+Men1,MLL-COMPASS
+Kmt2a,MLL-COMPASS
+Kmt2c,MLL-COMPASS
+Kmt2d,MLL-COMPASS
+Paxip1,MLL-COMPASS
+Rbbp5,MLL-COMPASS
+Ash2l,MLL-COMPASS
+Rnf20,Single subunit tested in complex
+Rnf40,Single subunit tested in complex
+Kat8,NSL
+Kansl1,NSL
+Kansl2,NSL
+Kansl3,NSL
+Wdr5,NSL
+Hcfc1,NSL
+Wdr82,SET1-COMPASS
+Cxxc1,SET1-COMPASS
+Setd1a,SET1-COMPASS
+Setd1b,SET1-COMPASS
+Tgfbr1,TGFB-SMAD signaling
+Smad3,TGFB-SMAD signaling
+Smad4,TGFB-SMAD signaling
+Smad2,TGFB-SMAD signaling
+Rest,Single subunit tested in complex
+Setdb1,Single subunit tested in complex
+Egr2,Transcription factor
+Chd4,Single subunit tested in complex
