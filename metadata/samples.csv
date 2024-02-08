@@ -1,0 +1,11 @@
+name_orig,name_python,notes
+Activated_OP1L_NM_NA_Rep1,Rep3-Tgfb1,
+Activated_OP1L_NM_NA_Rep2,Rep4-Tgfb1,
+Quiescent_OP1L_NM_NA_Rep1,Rep1-Resting,
+Quiescent_OP1L_NM_NA_Rep2,Rep2-Resting,
+exVivo_OP2_IL1b_1,Rep9-Il1b,
+exVivo_OP2_IL1b_2,Rep10-Il1b,
+exVivo_OP2_TGFb_1,Rep7-Tgfb1,
+exVivo_OP2_TGFb_2,Rep8-Tgfb1,missing in Python data
+exVivo_OP2_resting_1,Rep5-Resting,
+exVivo_OP2_resting_2,Rep6-Resting,
