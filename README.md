@@ -21,7 +21,7 @@ This code supplements the upcoming publication by Aguado Alvaro, Garitano, Esser
 
 Create a folder `data_raw` that will contain raw data in the following subfolders:
 
-- `rna`: Download `GSExxx_RAW.tar` from GEO Series GSExxx and extract all files.
+- `rna`: Download `GSE261783_RAW.tar` from GEO Series GSE261783 and extract all files.
 - `signatures`:
   - `markers_Forte.xlsx`: Table S3 from Forte et al (https://doi.org/10.1016/j.celrep.2020.02.008)
   - `markers_Koenig.xlsx`: Table S27 from Koenig et al (https://doi.org/10.1038/s44161-022-00028-6)
