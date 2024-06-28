@@ -1,0 +1,1 @@
+Julen had prepared the metadata file (including checksums) so there was nothing for me to do and I uploaded all files directly from my laptop.
