@@ -1,0 +1,41 @@
+Rd1:
+  assay: "Rd1"
+  processed_folders:
+    - "Activated_OP1L_NM_NA_Rep1/outs"
+    - "Activated_OP1L_NM_NA_Rep2/outs"
+    - "Quiescent_OP1L_NM_NA_Rep1/outs"
+    - "Quiescent_OP1L_NM_NA_Rep2/outs"
+  cell_suffix_to_condition:
+    "Activated_OP1L_NM_NA_Rep1": "Activated"
+    "Activated_OP1L_NM_NA_Rep2": "Activated"
+    "Quiescent_OP1L_NM_NA_Rep1": "Quiescent"
+    "Quiescent_OP1L_NM_NA_Rep2": "Quiescent"
+  cell_suffix_to_replicate:
+    "Activated_OP1L_NM_NA_Rep1": "Rep3-Tgfb1"
+    "Activated_OP1L_NM_NA_Rep2": "Rep4-Tgfb1"
+    "Quiescent_OP1L_NM_NA_Rep1": "Rep1-Resting"
+    "Quiescent_OP1L_NM_NA_Rep2": "Rep2-Resting"
+
+Rd3:
+  assay: "Rd3"
+  processed_folders:
+    - "exVivo_OP2_IL1b_1/outs"
+    - "exVivo_OP2_IL1b_2/outs"
+    - "exVivo_OP2_resting_1/outs"
+    - "exVivo_OP2_resting_2/outs"
+    - "exVivo_OP2_TGFb_1/outs"
+    - "exVivo_OP2_TGFb_2/outs"
+  cell_suffix_to_condition:
+    "exVivo_OP2_resting_1": "Resting"
+    "exVivo_OP2_resting_2": "Resting"
+    "exVivo_OP2_TGFb_1": "Tgfb1"
+    "exVivo_OP2_TGFb_2": "Tgfb1"
+    "exVivo_OP2_IL1b_1": "Il1b"
+    "exVivo_OP2_IL1b_2": "Il1b"
+  cell_suffix_to_replicate:
+    "exVivo_OP2_resting_1": "Rep5-Resting"
+    "exVivo_OP2_resting_2": "Rep6-Resting"
+    "exVivo_OP2_TGFb_1": "Rep7-Tgfb1"
+    "exVivo_OP2_TGFb_2": "Rep8-Tgfb1"
+    "exVivo_OP2_IL1b_1": "Rep9-Il1b"
+    "exVivo_OP2_IL1b_2": "Rep10-Il1b"
