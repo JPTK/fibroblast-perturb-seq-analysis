@@ -46,11 +46,73 @@ gene_map <-
   select(human_gene = `Human gene name`, mouse_gene = `Gene name`) %>% 
   distinct()
 
+# these datasets contain human genes, which we map to mouse genes
+markers_human <-
+  bind_rows(
+    .id = "ref",
+    
+    Amrute =
+      read_xlsx("data_raw/signatures/signatures_Amrute.xlsx", sheet = 1, skip = 1) %>% 
+      select(
+        cluster,
+        human_gene = ...1,
+        logFC = avg_log2FC,
+        p_adj = p_val_adj
+      ),
+    
+    Chaffin =
+      read_xlsx("data_raw/signatures/signatures_Chaffin.xlsx", sheet = 1) %>% 
+      select(
+        cluster = `Sub-Cluster`,
+        human_gene = Gene,
+        logFC = `limma-voom: logFC`,
+        p_adj = `limma-voom: Adjusted P-Value`
+      ),
+    
+    Fu =
+      read_xlsx("data_raw/signatures/signatures_Fu.xlsx", sheet = 1) %>% 
+      select(
+        cluster,
+        human_gene = gene,
+        logFC = avg_logFC,
+        p_adj = p_val_adj
+      ),
+    
+    Koenig = 
+      read_xlsx("data_raw/signatures/markers_Koenig.xlsx", sheet = 3) %>% 
+      select(
+        cluster,
+        human_gene = gene,
+        logFC = avg_log2FC,
+        p_adj = p_val_adj
+      ),
+    
+    Kuppe =
+      c("Fib1", "Fib2", "Fib3", "Fib4") %>% 
+      set_names() %>% 
+      map(\(s) read_xlsx("data_raw/signatures/signatures_Kuppe.xlsx", sheet = s)) %>% 
+      list_rbind(names_to = "cluster") %>% 
+      select(
+        cluster, 
+        human_gene = gene, 
+        logFC = avg_log2FC,
+        p_adj = p_val_adj
+      )
+  ) %>% 
+  left_join(
+    gene_map,
+    by = "human_gene",
+    relationship = "many-to-many"
+  ) %>% 
+  select(ref, cluster, gene = mouse_gene, logFC, p_adj) %>% 
+  filter(!is.na(gene))
+
+
 # table with five columns: dataset, cluster (cell type), marker gene,
 # log fold change, and adjusted p value
 # filtering: only keep significant genes (padj < 0.01)
 # and the 100 genes with highest logFC per cell type;
-markers <-
+markers_mouse <-
   bind_rows(
     .id = "ref",
     
@@ -73,19 +135,13 @@ markers <-
       list_rbind() %>%
       select(cluster, gene, logFC = avg_logFC, p_adj = p_val_adj) %>%
       mutate(cluster = recode(cluster, !!!cluster_names_forte)),
-    
-    # the Koenig dataset contains human genes, which we map to mouse genes
-    Koenig = 
-      read_xlsx("data_raw/signatures/markers_Koenig.xlsx", sheet = 3) %>% 
-      left_join(
-        gene_map,
-        by = join_by(gene == human_gene),
-        relationship = "many-to-many"
-      ) %>%
-      select(cluster, gene = mouse_gene, logFC = avg_log2FC, p_adj = p_val_adj)
-  ) %>% 
+  )
+
+markers <- 
+  bind_rows(markers_human, markers_mouse) %>% 
   filter(p_adj < 0.01) %>%
-  slice_max(logFC, n = 100, by = c(ref, cluster))
+  slice_max(logFC, n = 100, by = c(ref, cluster)) %>%
+  bind_rows(read_csv("data_raw/signatures/markers_murine.csv", comment = "#"))
 
 
 
@@ -116,23 +172,23 @@ calculate_signatures <- function(markers) {
 
 
 
-selected_terms <- tribble(
-  ~ref, ~cluster,
-  "Amrute", "Fib1", 
-  "Amrute", "Fib3", 
-  "Amrute", "Fib7", 
-  "Chaffin", "Activated fibroblast", 
-  "Fu", "FB0", 
-  "Fu", "FB5", 
-  "Koenig", "Fb5 - ELN", 
-  "Koenig", "Fb7 - CCL2", 
-  "Koenig", "Fb8 - THBS4", 
-  "Kuppe", "Fib1",
-  "Kuppe", "Fib2",
-  "exvivo", "resting",
-  "exvivo", "fibrotic",
-  "exvivo", "inflammatory"
-)
+# selected_terms <- tribble(
+#   ~ref, ~cluster,
+#   "Amrute", "Fib1", 
+#   "Amrute", "Fib3", 
+#   "Amrute", "Fib7", 
+#   "Chaffin", "Activated fibroblast", 
+#   "Fu", "FB0", 
+#   "Fu", "FB5", 
+#   "Koenig", "Fb5 - ELN", 
+#   "Koenig", "Fb7 - CCL2", 
+#   "Koenig", "Fb8 - THBS4", 
+#   "Kuppe", "Fib1",
+#   "Kuppe", "Fib2",
+#   "exvivo", "resting",
+#   "exvivo", "fibrotic",
+#   "exvivo", "inflammatory"
+# )
 
 ignored_terms <- tribble(
   ~ref, ~cluster,
@@ -259,8 +315,10 @@ cell_type_order <- c(
   "Proliferative myofibroblast"
 )
 
-plot_signature_heatmap <- function(ref, color_limit = NULL, row_order = NULL) {
-  col_prefix <- str_c("signature_")
+plot_signature_heatmap <- function(ref = NULL,
+                                   color_limit = NULL,
+                                   row_order = NULL) {
+  col_prefix <- str_c("signature", ref, "", sep = "_")
   
   mat <- 
     plot_data_sig %>% 
@@ -300,7 +358,8 @@ plot_signature_heatmap <- function(ref, color_limit = NULL, row_order = NULL) {
     row_title_side = "left",
     cluster_rows = FALSE,
 
-    column_title = str_glue("Fibroblast signatures"),
+    column_title = glue::glue("Population signatures ({ref})",
+                              .null = "all references"),
     column_title_side = "bottom",
 
     width = ncol(mat) * unit(2, "mm"),
@@ -309,7 +368,7 @@ plot_signature_heatmap <- function(ref, color_limit = NULL, row_order = NULL) {
 }
 
 (p <- plot_signature_heatmap("Forte", color_limit = 2, row_order = cell_type_order))
-ggsave_default("XX_signatures_all", plot = p)
+ggsave_default("3f_signatures_Forte", plot = p)
 
 (p <- plot_signature_heatmap("Buechler"))
 ggsave_default("S3_signatures_Buechler", plot = p)
@@ -317,3 +376,16 @@ ggsave_default("S3_signatures_Buechler", plot = p)
 (p <- plot_signature_heatmap("Koenig"))
 ggsave_default("S3_signatures_Koenig", plot = p)
 
+
+
+(p <- plot_signature_heatmap(color_limit = 2, row_order = cell_type_order))
+ggsave_default("XX_signatures_all", plot = p)
+
+walk(
+  unique(markers$ref),
+  \(ref) {
+    p <- plot_signature_heatmap(ref = ref, color_limit = 2,
+                                row_order = cell_type_order)
+    ggsave_default(str_glue("XX_signatures_{ref}"), plot = p)
+  }
+)
