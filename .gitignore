@@ -1,5 +1,6 @@
 data_raw
 data_generated
+doc
 plots
 tables
 renv
