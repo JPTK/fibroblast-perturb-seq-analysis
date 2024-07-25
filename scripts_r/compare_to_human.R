@@ -88,7 +88,8 @@ markers <-
   filter(
     p_adj < 0.01,
     !is.na(gene)
-  )
+  ) %>% 
+  bind_rows(read_csv("data_raw/signatures/markers_murine.csv", comment = "#"))
 
 
 

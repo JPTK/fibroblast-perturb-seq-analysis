@@ -106,16 +106,43 @@ calculate_signatures <- function(markers) {
   markers %>% 
     group_by(ref, cluster) %>% 
     group_map(\(df, keys) {
+      info("Markers for {keys$ref}, {keys$cluster}")
       mat[df$gene, ] %>%
         colMeans() %>% 
         enframe("barcode", str_c("signature_", keys$ref, "_", keys$cluster))
     }) %>% 
-    reduce(left_join, by = "barcode")
-
+    purrr::reduce(left_join, by = "barcode")
 }
 
-signatures <- calculate_signatures(markers)
 
+
+selected_terms <- tribble(
+  ~ref, ~cluster,
+  "Amrute", "Fib1", 
+  "Amrute", "Fib3", 
+  "Amrute", "Fib7", 
+  "Chaffin", "Activated fibroblast", 
+  "Fu", "FB0", 
+  "Fu", "FB5", 
+  "Koenig", "Fb5 - ELN", 
+  "Koenig", "Fb7 - CCL2", 
+  "Koenig", "Fb8 - THBS4", 
+  "Kuppe", "Fib1",
+  "Kuppe", "Fib2",
+  "exvivo", "resting",
+  "exvivo", "fibrotic",
+  "exvivo", "inflammatory"
+)
+
+ignored_terms <- tribble(
+  ~ref, ~cluster,
+  "Amrute", "Fib4",
+)
+
+
+# signatures <- calculate_signatures(markers)
+# signatures <- calculate_signatures(markers %>% semi_join(selected_terms))
+signatures <- calculate_signatures(markers %>% anti_join(ignored_terms))
 
 
 # Plots -------------------------------------------------------------------
@@ -233,7 +260,7 @@ cell_type_order <- c(
 )
 
 plot_signature_heatmap <- function(ref, color_limit = NULL, row_order = NULL) {
-  col_prefix <- str_c("signature_", ref, "_")
+  col_prefix <- str_c("signature_")
   
   mat <- 
     plot_data_sig %>% 
@@ -273,7 +300,7 @@ plot_signature_heatmap <- function(ref, color_limit = NULL, row_order = NULL) {
     row_title_side = "left",
     cluster_rows = FALSE,
 
-    column_title = str_glue("Population signatures ({ref})"),
+    column_title = str_glue("Fibroblast signatures"),
     column_title_side = "bottom",
 
     width = ncol(mat) * unit(2, "mm"),
@@ -282,7 +309,7 @@ plot_signature_heatmap <- function(ref, color_limit = NULL, row_order = NULL) {
 }
 
 (p <- plot_signature_heatmap("Forte", color_limit = 2, row_order = cell_type_order))
-ggsave_default("3f_signatures_Forte", plot = p)
+ggsave_default("XX_signatures_all", plot = p)
 
 (p <- plot_signature_heatmap("Buechler"))
 ggsave_default("S3_signatures_Buechler", plot = p)
